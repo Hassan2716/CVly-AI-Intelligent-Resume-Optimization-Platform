@@ -222,6 +222,6 @@ Contributions are welcome! Please follow these steps:
 ---
 
 <div align="center">
-  <strong>Built with ✦ by CVly AI</strong><br/>
+
   <sub>If this helped you, please ⭐ star the repo!</sub>
 </div>
