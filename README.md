@@ -2,15 +2,7 @@
 
 > **AI-powered resume builder that helps you get hired faster.** Create, optimize, and tailor ATS-friendly resumes with real-time AI feedback, job matching, cover letter generation, and interview preparation — all in one platform.
 
-<div align="center">
 
-![CVly AI Banner](https://img.shields.io/badge/CVly-AI%20Powered-6c5ce7?style=for-the-badge&logo=sparkles)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite)
-![Gemini](https://img.shields.io/badge/Gemini-AI-4285F4?style=for-the-badge&logo=google)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-</div>
 
 ---
 
