@@ -18,14 +18,14 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🎯 Core
+###  Core
 - **Resume Editor** — Live split-panel editor with instant preview. Edit sections, bullets, skills in real time
 - **6 Templates** — Executive Classic, Modern Split, Minimal Clean, Bold Impact, Dark Pro, Corporate Pro — all ATS-friendly
 - **PDF Export** — High-quality, print-ready PDF generation with one click
 
-### 🤖 AI-Powered (Gemini)
+### AI-Powered (Gemini)
 - **ATS Optimizer** — Score your resume 0–100 across 5 dimensions with detailed section feedback
 - **Keyword Analysis** — Match and gap analysis against any job description
 - **Bullet Point Enhancer** — Transform weak statements into quantified achievements
@@ -37,14 +37,14 @@
 - **Skill Gap Analysis** — Visual gap chart with learning path recommendations
 - **AI Chat Assistant** — Floating chat panel for on-demand resume advice
 
-### 📁 Data & Workflow
+### Data & Workflow
 - **Version Control** — Save snapshots, compare versions with side-by-side diff view
 - **Persistent Storage** — All data saved locally, no account required
 - **Dashboard** — Score trends, activity feed, AI suggestions at a glance
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - [Node.js](https://nodejs.org) v18 or higher
@@ -82,7 +82,7 @@ const API_KEY = 'your-actual-key-here';
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 cvly-ai/
@@ -115,7 +115,7 @@ cvly-ai/
 
 ---
 
-## 🔌 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -130,7 +130,7 @@ cvly-ai/
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 ### Vercel (Recommended — Free)
 ```bash
@@ -165,7 +165,7 @@ docker run -p 3000:3000 cvly-ai
 
 ---
 
-## ⚙️ Environment Variables
+## Environment Variables
 
 For production deployments, use environment variables instead of hardcoding your API key:
 
@@ -179,11 +179,11 @@ Update `aiService.js`:
 const API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 ```
 
-> ⚠️ Never commit your `.env` file. It's already in `.gitignore`.
+ Never commit your `.env` file. It's already in `.gitignore`.
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] User authentication (Supabase)
 - [ ] Cloud storage (PostgreSQL + S3)
@@ -198,7 +198,7 @@ const API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -208,15 +208,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch: `git push origin feature/your-feature`
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [Google Gemini](https://deepmind.google/technologies/gemini/) — AI engine
 - [Syne Font](https://fonts.google.com/specimen/Syne) — Display typography
