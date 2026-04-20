@@ -6,7 +6,7 @@
 
 ---
 
-## 📸 Preview
+##  Preview
 
 | Dashboard | Resume Editor | ATS Optimizer |
 |-----------|--------------|---------------|
