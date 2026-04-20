@@ -1,6 +1,6 @@
 // CVly AI — Google Gemini API Integration
 const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
-const API_KEY = AIzaSyBkp_pMPf65Fk12blrluDEAu-rXGTJpndI
+const API_KEY = 'YOUR_GEMINI_API_KEY_HERE'; // https://aistudio.google.com/app/apikey
 
 async function callGemini(systemPrompt, userMessage, maxTokens = 1000) {
   const res = await fetch(`${API_URL}?key=${API_KEY}`, {
